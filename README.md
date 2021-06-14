@@ -25,6 +25,8 @@
 16. Rematrícula Escolar
 17. Extrato de compra online
 
+---
+
 Preencha a checklist para fazer os exercícios:
 
 -   [ ] Fazer o fork do repositório para sua conta
