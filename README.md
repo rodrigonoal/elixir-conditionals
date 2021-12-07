@@ -2,6 +2,8 @@
 
 # Back-end | Condicionais
 
+Estes exercícios pertencem à Cubos Academy, originalmente pensados para resolução em Javascript, porém foram utilizados para fixação dos meus conhecimentos em Elixir com minhas próprias modificações.
+
 ## Exercícios de classe 🏫
 
 01. Pedra, papel ou tesoura
